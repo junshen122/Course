@@ -31,6 +31,9 @@
   
 觀看影片一
 <a href="https://www.youtube.com/watch?v=Di42x7_0z_I" target="_blank">日本5G宣傳概念影片</a>
+<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
+alt="日本5G宣傳概念影片" width="240" height="180" border="10" /></a>
 
 
 
