@@ -52,6 +52,6 @@ alt="腳踢尾門，實車安裝測試" width="240" height="180" border="10" /><
 
 <br>
 
-FDC2214 (電容式感應晶片)
+FDC2214 (電容式感應晶片)<br>
 <img src="https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/fdc2214evm-angled.png" wihth=300 height=300 />
 
