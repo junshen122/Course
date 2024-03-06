@@ -50,6 +50,8 @@ alt="腳踢尾門實驗" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=ZrLc0ZCzZQ0" target="_blank"><img src="http://img.youtube.com/vi/ZrLc0ZCzZQ0/0.jpg" 
 alt="腳踢尾門，實車安裝測試" width="240" height="180" border="10" /></a>
 
+<br>
 
-
+FDC2214 (電容式感應晶片)
+<img src="https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/fdc2214evm-angled.png" wihth=300 height=300 />
 
