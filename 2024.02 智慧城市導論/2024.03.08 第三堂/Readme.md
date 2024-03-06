@@ -40,8 +40,15 @@ alt="日本5G宣傳概念影片" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/_fL85yFLZGg/0.jpg" 
 alt="倫敦智慧城市" width="240" height="180" border="10" /></a>
 
+觀看影片三
+<a href="https://www.youtube.com/watch?v=MgPiXseTTyc" target="_blank">腳踢尾門實驗</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MgPiXseTTyc" target="_blank"><img src="http://img.youtube.com/vi/MgPiXseTTyc/0.jpg" 
+alt="腳踢尾門實驗" width="240" height="180" border="10" /></a>
 
-
+觀看影片四
+<a href="https://www.youtube.com/watch?v=ZrLc0ZCzZQ0" target="_blank">腳踢尾門，實車安裝測試</a><br>
+<a href="https://www.youtube.com/watch?v=ZrLc0ZCzZQ0" target="_blank"><img src="http://img.youtube.com/vi/ZrLc0ZCzZQ0/0.jpg" 
+alt="腳踢尾門，實車安裝測試" width="240" height="180" border="10" /></a>
 
 
 
