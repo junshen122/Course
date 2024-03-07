@@ -40,25 +40,26 @@
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
 alt="日本5G宣傳概念影片" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
 # AR 擴增實境 
 >### AR 藉由把電腦產生的資訊覆蓋在我們看到的事物上，以強化我們在真實世界的視域。這項技術目前在智慧手機的 AR 應用程式上相當普遍，使用這些應用時必須取出手機並將它放在面前。應用程式藉由即時處理相機拍攝到的影像，可以顯示情境資訊，或是提供看起來像是來自真實世界的遊戲或社群體驗。
 <br>
 (聯想 ThinkReality A3 AR 智慧眼鏡)
 <br><img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/2024.03.08%20%E7%AC%AC%E4%B8%89%E5%A0%82/AR.jpg" width=500 height=300 />
-<br>
+圖文取自http://arm.com<br><br>
 
 # VR 虛擬實境
 >### VR 完全取代使用者的視域，讓他們沉浸在電腦產生的虛擬環境中。這類型的 XR 已出現一段時間，技術上也逐步提升。它主要的用途在於娛樂體驗，例如遊戲、演唱會、電影或運動賽事，也正在加速進入社群領域的應用。VR 也被用來做為訓練工具，並在教育和健康照護領域、例如復健機構中使用。為了讓使用者能順暢無縫地享受這些體驗，VR 技術通常聚焦在高畫質影片、渲染技術與超低延遲。
 <br>
 (Oculus Quest 2 VR 頭戴式裝置)
 <br><img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/2024.03.08%20%E7%AC%AC%E4%B8%89%E5%A0%82/VR.jpg" width=500 height=300 />
-<br>
+圖文取自http://arm.com<br><br>
 
 # MR 混合實境
 >### MR 則介於 AR 與 VR 之間，並把真實與虛擬的世界合併在一起。這類型的 XR 技術有三大關鍵情境。第一，是透過智慧手機或 AR 穿戴式裝置，把虛擬物件與角色疊放到真實環境中，或者也可反過來做。
 <br><img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/2024.03.08%20%E7%AC%AC%E4%B8%89%E5%A0%82/MR.jpg" width=500 height=300 />
-<br><br>
+<br>圖文取自http://arm.com<br><br>
 
 # XR 延展實境
 >### XR 是個「概括性」的詞彙。 這種技術通常是將電腦文字或圖形覆蓋或融入於真實世界與虛擬環境，或甚至是兩者的結合。 XR 包含擴增實境（AR）、虛擬實境（VR）與混合實境（MR）。
@@ -71,6 +72,7 @@ _____________________
 <a href="https://www.youtube.com/watch?v=_fL85yFLZGg" target="_blank">倫敦智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/_fL85yFLZGg/0.jpg" 
 alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
 <br><br><br>
 
@@ -80,5 +82,6 @@ _____________________
 <a href="https://www.youtube.com/watch?v=ckWZJspGe6I" target="_blank">打造智慧城市 從改變交通方式著手</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/ckWZJspGe6I/0.jpg" 
 alt="打造智慧城市 從改變交通方式著手" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
 
