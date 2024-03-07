@@ -61,13 +61,13 @@ alt="日本5G宣傳概念影片" width="400" height="250" border="10" /></a>
 觀看影片二
 <a href="https://www.youtube.com/watch?v=_fL85yFLZGg" target="_blank">倫敦智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/_fL85yFLZGg/0.jpg" 
-alt="倫敦智慧城市" width="240" height="180" border="10" /></a>
+alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 
-<br>
+<br><br><br>
 
 觀看影片三
 <a href="https://www.youtube.com/watch?v=ckWZJspGe6I" target="_blank">打造智慧城市 從改變交通方式著手</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/ckWZJspGe6I/0.jpg" 
-alt="打造智慧城市 從改變交通方式著手" width="240" height="180" border="10" /></a>
+alt="打造智慧城市 從改變交通方式著手" width="400" height="250" border="10" /></a>
 
 
