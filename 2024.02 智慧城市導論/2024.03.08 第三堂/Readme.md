@@ -1,8 +1,9 @@
 # 何謂"智慧城市"?
-### 智慧城市是一種城市管理和發展的概念，主要在運用資訊技術和數據分析來提高城市的運行效率、改善市民生活質量以及促進可持續發展。智慧城市通過將各種城市系統（如交通、能源、水務、污染監測、公共安全等）與資訊和通信技術（ICT）相連結，實現城市各個方面的智能化管理和協同運作。
+
+>### 智慧城市是一種城市管理和發展的概念，主要在運用 `資訊技術` 和 `數據分析` 來提高城市的運行效率、改善市民生活質量以及促進可持續發展。 智慧城市通過將各種城市系統（如交通、能源、水務、污染監測、公共安全等）與資訊和通信技術（ICT）相連結，實現城市各個方面的智能化管理和協同運作。
 
 # 起源
-### 智慧城市最初的概念來自IBM的「智慧地球」——利用物聯網、人工智慧AI、雲端運算等工具，與城市裡的交通、自來水道、電力設備、建築物等設備系統形成有效率的互動，最終提升政府效能，也改善民眾生活品質。隨著日新月異的科技，智慧城市的發展進度也成為國際城市競爭力的關鍵指標。
+>### 智慧城市最初的概念來自IBM的 `「智慧地球」` ——利用 `物聯網`、`人工智慧AI`、`雲端運算`等工具，與城市裡的交通、自來水道、電力設備、建築物等設備系統形成有效率的互動，最終提升政府效能，也改善民眾生活品質。隨著日新月異的科技，智慧城市的發展進度也成為國際城市競爭力的關鍵指標。
 
 # 智慧城市的應用範圍？
 ### 智慧城市的應用範圍可分為六大範圍。根據國際城市策略師布特・高漢（Boyd Cohen）提出的智慧城市輪（Smart City Wheel），智慧城市的六大面向又分別包含三個子項目：
@@ -35,25 +36,18 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
 alt="日本5G宣傳概念影片" width="240" height="180" border="10" /></a>
 
+<br>
+
 觀看影片二
 <a href="https://www.youtube.com/watch?v=_fL85yFLZGg" target="_blank">倫敦智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/_fL85yFLZGg/0.jpg" 
 alt="倫敦智慧城市" width="240" height="180" border="10" /></a>
 
+<br>
+
 觀看影片三
-<a href="https://www.youtube.com/watch?v=MgPiXseTTyc" target="_blank">腳踢尾門實驗</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MgPiXseTTyc" target="_blank"><img src="http://img.youtube.com/vi/MgPiXseTTyc/0.jpg" 
-alt="腳踢尾門實驗" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=ckWZJspGe6I" target="_blank">打造智慧城市 從改變交通方式著手</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_fL85yFLZGg" target="_blank"><img src="http://img.youtube.com/vi/ckWZJspGe6I/0.jpg" 
+alt="打造智慧城市 從改變交通方式著手" width="240" height="180" border="10" /></a>
 
-觀看影片四
-<a href="https://www.youtube.com/watch?v=ZrLc0ZCzZQ0" target="_blank">腳踢尾門，實車安裝測試</a><br>
-<a href="https://www.youtube.com/watch?v=ZrLc0ZCzZQ0" target="_blank"><img src="http://img.youtube.com/vi/ZrLc0ZCzZQ0/0.jpg" 
-alt="腳踢尾門，實車安裝測試" width="240" height="180" border="10" /></a>
-
-<br>
-
-FDC2214 (電容式感應晶片)<br>
-<a href="https://www.ti.com/tool/FDC2214EVM" target="_blank">相關介紹</a>
-<br>
-<img src="https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/fdc2214evm-angled.png" wihth=300 height=300 />
 
