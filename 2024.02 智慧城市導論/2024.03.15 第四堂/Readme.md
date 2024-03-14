@@ -115,10 +115,42 @@
 ## 2021年中鋼保全參加智慧城市展
 
 </summary>
+<br>
+<img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/2024.03.15%20%E7%AC%AC%E5%9B%9B%E5%A0%82/pic/city.jpg" width=500 height=300 />
+<br>
 
+## 因應高雄市第一次舉辦智慧城市展，中鋼集團鼓勵集團公司設攤行銷公司業務。
+### 主要有三大主題
+>#### 1.智能影像辨識
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tfrMbCCHXlA" target="_blank"><img src="http://img.youtube.com/vi/tfrMbCCHXlA/0.jpg" 
+alt="智能影像辨識" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
+<br>
 
+>#### 2.智慧消防
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cIULsEsSR38" target="_blank"><img src="http://img.youtube.com/vi/cIULsEsSR38/0.jpg" 
+alt="智慧消防" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
+<br>
 
+>#### 3.毫米波生理訊號偵測
+
+##### 毫米波生理訊號偵測<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WK1kL6hu77g" target="_blank"><img src="http://img.youtube.com/vi/WK1kL6hu77g/0.jpg" 
+alt="毫米波生理訊號偵測" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+<br>
+
+##### 毫米波人員偵測<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Cg1l1Iu7trY" target="_blank"><img src="http://img.youtube.com/vi/Cg1l1Iu7trY/0.jpg" 
+alt="毫米波人員偵測" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
 </detail>
+
+
+
+
