@@ -153,4 +153,35 @@ alt="毫米波人員偵測" width="400" height="250" border="10" /></a>
 
 
 
+<details>
+<summary>
+
+## 2023年智慧城市展花絮
+
+</summary>
+
+##### 中華電信警政 AI 巡檢系統 <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=aOb2Y6eEoUI" target="_blank"><img src="http://img.youtube.com/vi/aOb2Y6eEoUI/0.jpg" 
+alt="警政 AI 巡檢系統" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+
+##### 台達電智慧路燈 <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dLsEDt3D3gI" target="_blank"><img src="http://img.youtube.com/vi/dLsEDt3D3gI/0.jpg" 
+alt="警台達電智慧路燈" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+##### 全方位智慧化建築整合應用解決方案 <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=g-cQW5nL4ZI" target="_blank"><img src="http://img.youtube.com/vi/g-cQW5nL4ZI/0.jpg" 
+alt="全方位智慧化建築整合應用解決方案" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+
+
+
+
+
+</detail>
+
+
 
