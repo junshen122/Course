@@ -29,6 +29,13 @@
 alt="5G智慧杆" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
+<br><br>
+
+# 智慧燈杆的解決方案
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0bz3gzW5Q0c" target="_blank"><img src="http://img.youtube.com/vi/0bz3gzW5Q0c/0.jpg" 
+alt="智慧燈杆的解決方案" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
 <br>
 
 <hr>
