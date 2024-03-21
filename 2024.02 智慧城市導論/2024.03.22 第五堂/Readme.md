@@ -31,9 +31,9 @@ alt="5G智慧杆" width="400" height="250" border="10" /></a>
 
 <br><br>
 
-# 智慧燈杆的解決方案
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0bz3gzW5Q0c" target="_blank"><img src="http://img.youtube.com/vi/0bz3gzW5Q0c/0.jpg" 
-alt="智慧燈杆的解決方案" width="400" height="250" border="10" /></a>
+# 遠傳智慧共杆的解決方案
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FL1TaXa0hIU" target="_blank"><img src="http://img.youtube.com/vi/FL1TaXa0hIU/0.jpg" 
+alt="遠傳智慧共杆的解決方案" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
 <br>
@@ -95,6 +95,15 @@ alt="智慧路燈" width="400" height="250" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5S8-SLBNgcw" target="_blank"><img src="http://img.youtube.com/vi/5S8-SLBNgcw/0.jpg" 
 alt="公有雲、私有雲、混合雲以及Iaas、Paas、Saas介紹" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
+
+
+
+
+# 5G基地台與智慧共杆的連結
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y55rekkF1ZY" target="_blank"><img src="http://img.youtube.com/vi/y55rekkF1ZY/0.jpg" 
+alt="5G基地台與智慧共杆的連結" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
 
 
 
