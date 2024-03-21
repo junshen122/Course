@@ -96,10 +96,16 @@ alt="智慧路燈" width="400" height="250" border="10" /></a>
 alt="公有雲、私有雲、混合雲以及Iaas、Paas、Saas介紹" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
+<br><br><br>
 
+# 智慧共杆可以促進5G網路的發展
 
+## 基地台的偽裝
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_YjniHlGhSc" target="_blank"><img src="http://img.youtube.com/vi/_YjniHlGhSc/0.jpg" 
+alt="基地台的偽裝" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
-# 5G基地台與智慧共杆的連結
+## 5G基地台與智慧共杆的連結
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y55rekkF1ZY" target="_blank"><img src="http://img.youtube.com/vi/y55rekkF1ZY/0.jpg" 
 alt="5G基地台與智慧共杆的連結" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
