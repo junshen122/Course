@@ -65,7 +65,6 @@ alt="ChatGPT 介紹 " width="400" height="250" border="10" /></a>
 
 
 
-
 # ChatGPT 範例
 
 - ### 請介紹高雄科技大學的歷史
