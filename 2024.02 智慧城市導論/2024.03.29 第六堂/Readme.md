@@ -14,11 +14,9 @@
 <br>
 
 #### ChatGPT 介紹 <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WizoCwjEKsg" target="_blank"><img src="http://img.youtube.com/vi/WizoCwjEKsg/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Cw2LGRRch-c" target="_blank"><img src="http://img.youtube.com/vi/Cw2LGRRch-c/0.jpg" 
 alt="ChatGPT 介紹 " width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
-
-<br>
 
 <br>
 
@@ -64,6 +62,14 @@ alt="ChatGPT 介紹 " width="400" height="250" border="10" /></a>
 <img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/2024.03.29%20%E7%AC%AC%E5%85%AD%E5%A0%82/Comments.jpg"/><br>
 
 
+<br>
+
+#### ChatGPT 介紹 <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WizoCwjEKsg" target="_blank"><img src="http://img.youtube.com/vi/WizoCwjEKsg/0.jpg" 
+alt="ChatGPT 介紹 " width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+<br>
 
 # ChatGPT 範例
 
